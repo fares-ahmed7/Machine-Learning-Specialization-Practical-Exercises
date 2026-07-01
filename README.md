@@ -45,7 +45,7 @@ jupyter notebook
 ## 🏆 Certificate
 
 <p align="center">
-  <img src="Machine Learning Specialization.pdf" alt="Machine Learning Specialization Certificate" width="700">
+  <img src="Machine Learning Specialization.jpg" alt="Machine Learning Specialization Certificate" width="700">
 </p>
 
 You can also verify the certificate through the official Coursera link:
